@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum\HID\VID_045E&PID_00F9&MI_01&Col02\7&319870ac&0&0001\Device Parameters]
+"FlipFlopWheel"=dword:00000001
+"ForceAbsolute"=dword:00000000
+"Migrated"=dword:00000001
+"HScrollPageOverride"=dword:00000000
+"HScrollUsageOverride"=dword:00000000
+"HScrollHighResolutionDisable"=dword:00000000
+"VScrollPageOverride"=dword:00000000
+"VScrollUsageOverride"=dword:00000000
+"VScrollHighResolutionDisable"=dword:00000000
+"FlipFlopHScroll"=dword:00000000
